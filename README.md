@@ -41,23 +41,12 @@ HTML>
     </body>
     <p> Gambar Tanpa Format</p>
     <img src="C:\Users\ASUS\Downloads\dcdaeb5a081c6f7b4591c92c1b6f6ead.jpg" height="100" />
+    
     <p>Gambar Dengan Format hspace</p>
     <img src="C:\Users\ASUS\Downloads\21283cbd924e36ab35de42e3d8fc7bbb.jpg" height="100"hspace="100" />
+    
     <p>Gambar Dengan Border</p>
     <img src="C:\Users\ASUS\Downloads\d25f4a72f4a2c2ba31589ccaadf72d27.jpg" height="100" />
+    
     </body>
     </HTML>
-<!--
-**Apisss21/Apisss21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
