@@ -1,4 +1,4 @@
-HTML>
+<HTML>
     <head>
         <title>
     Testing Web
@@ -42,13 +42,30 @@ HTML>
     <a href="https://www.youtube.com/">Klik Disini Untuk Nonton Youtube</a><br />  
     <br></br>
     </body>
-
+    
+    <h2>Program Studi</h2>
+    <ol type="1">
+    <li>Program S-1</li>
+                <ul type="circle">
+                <li>Teknik Informatika</li>
+                <li>Sistem Informasi</li>
+    </ul>
+    <li>Program D-III</li>
+                <ul type="disc">
+                <li>Teknik Informatika</li>
+                <li>Manajemen Informatika</li>
+                <li>Komputer Akuntasi</li>
+    </ul>
+    </ol>
+    <br></br>
+    
+    
     <p> Gambar Tanpa Format</p>
     <img src="C:\Users\ASUS\Downloads\dcdaeb5a081c6f7b4591c92c1b6f6ead.jpg" height="100" />
     <p>Gambar Dengan Format hspace</p>
     <img src="C:\Users\ASUS\Downloads\21283cbd924e36ab35de42e3d8fc7bbb.jpg" height="100"hspace="100" />
     <p>Gambar Dengan Border</p>
-    <img src="C:\Users\ASUS\Downloads\d25f4a72f4a2c2ba31589ccaadf72d27.jpg" height="100" />
+    <img src="C:\Users\ASUS\Downloads\d25f4a72f4a2c2ba31589ccaadf72d27.jpg" border="2" height="100" />
+    </body>
     </body>
     </HTML>
-    
